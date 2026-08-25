@@ -7,8 +7,10 @@ rgs = {
     name     = "test-rg"
     location = "south india"
   }
-  
-  
+     rg3 = {
+    name     = "dev-rg"
+    location = "south india"
+  }
 }
 strg = {
   storage1 = {
