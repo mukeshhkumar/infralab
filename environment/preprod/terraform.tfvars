@@ -3,7 +3,12 @@ rgs = {
     name     = "prod-rg"
     location = "central india"
   }
-
+    rg2 = {
+    name     = "test-rg"
+    location = "south india"
+  }
+  
+  
 }
 strg = {
   storage1 = {
