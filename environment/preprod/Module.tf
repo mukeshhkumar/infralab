@@ -4,6 +4,6 @@ module "rg" {
 }
 
 module "storage" {
-  source  = "../../module/azurerm-storage"
+  source           = "../../module/azurerm-storage"
   storage-accounts = var.strg
 }
